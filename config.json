@@ -1,0 +1,37 @@
+{
+  "SiteHeading": "rej.is",
+	"CompanyName": "Ondrej Sika",
+	"CompanyDomain": "ondrejsika.com",
+	"CompanyURL": "https://ondrejsika.com",
+	"Rows": [
+    {
+      "Cols": [
+        {
+          "Blocks": [
+            {
+              "Heading": "Ondrej Sika",
+              "Links": [
+                {
+                  "Title": "ondrejsika.com",
+                  "URL": "https://ondrejsika.com"
+                },
+                {
+                  "Title": "sika.io",
+                  "URL": "https://sika.io"
+                },
+                {
+                  "Title": "iamondrej.com",
+                  "URL": "https://iamondrej.com"
+                },
+                {
+                  "Title": "ond.is",
+                  "URL": "https://ond.is"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
