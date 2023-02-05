@@ -33,6 +33,23 @@
           ]
         }
       ]
+    },
+    {
+      "Cols": [
+        {
+          "Blocks": [
+            {
+              "Heading": "Iceland",
+              "Links": [
+                {
+                  "Title": "My Iceland Tips",
+                  "URL": "https://sika.link/iceland-tips"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }
